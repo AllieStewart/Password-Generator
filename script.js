@@ -58,7 +58,7 @@ function generatePassword()
   }
 
   // Using a windows confirm screen to ask if user would like lowercase letters or not
-  var includeLowercase= window.confirm("Would you like to include lowercase letters?");
+  var includeLowercase = window.confirm("Would you like to include lowercase letters?");
   // includeLowercase; needs random amount of lowercase letters if OK
   if(includeLowercase)
   {
