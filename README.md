@@ -52,7 +52,7 @@ Comments are added through the script.js file for readability.
 
 ## Usage
 Simply click on the link and watch the magic happen. 
-Link to the website: https://alliestewart.github.io/challenge-3/
+Link to the website: [https://alliestewart.github.io/Password-Generator](https://alliestewart.github.io/Password-Generator/)
 
 ## What I Have Learned
 I have learned how versatile JavaScript can be with this password generator project.
